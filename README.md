@@ -6,7 +6,7 @@ For further reading, check out my [post on "dev.to"](https://dev.to/devloker/mat
 - first install python libraries : `pillow numpy matplotlib PyQt6 keras` 
 - run main python file `app.py`, a digit recognizer frame will shows up
 
-![](https://github.com/DEVLOKER/Time-Detector/blob/main/screenshots/qt-prediction.jpg)
+![](https://github.com/DEVLOKER/Pure-Math-Digit-Recognition/blob/main/screenshots/qt-prediction.jpg)
 
 - Configure the training parameters (epochs, target accuracy, and learning rate) and click on the "Train" button, or alternatively, load a pre-trained model using the "Load" button.
 - Important: For optimal results, ensure you train your model until achieving a high accuracy (e.g. greater than 95%) by setting the target accuracy to 0.95. Note that reaching high training accuracy may require a significant amount of time (several minutes or longer).
